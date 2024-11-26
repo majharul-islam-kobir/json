@@ -1,22 +1,8 @@
-# JSON_Server_Deployment
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-
-By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
---------------
-
-
-[![Nice UI](https://img.youtube.com/vi/W9sbA1a2-Ag/0.jpg)](https://www.youtube.com/watch?v=W9sbA1a2-Ag)
-
-
-In this video, I have covered three simple steps to quickly deploy your **JSON Server** on render.com.
-
-Three Simple Steps:
-
-1. Create a repository from the template.
-2. Add your own data.
-3. Deploy it.
-
-Believe me, this is the **easiest way** to deploy your JSON server on render.com. Deploy your db.json file without writing a **single line of code**.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
